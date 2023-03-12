@@ -1,2 +1,2 @@
 # Web-Development
-I am a Computer Science student.
+Computer Science student.
